@@ -9,7 +9,7 @@ public class Rectangle {
 		System.out.print("Enter a length: ");
 		double rectLength = in.nextDouble();
 		in.nextLine();
-		System.out.print("Enter a widths: ");
+		System.out.print("Enter a width: ");
 		double rectWidth = in.nextDouble();
 		in.nextLine();
 
